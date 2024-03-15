@@ -2,7 +2,7 @@ aerich==0.7.1
 aiosqlite==0.17.0
 annotated-types==0.6.0
 anyio==4.3.0
-apturl==0.5.2
+apturl
 asgiref==3.7.2
 async-timeout==4.0.3
 asyncpg==0.27.0
